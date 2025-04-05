@@ -1,3 +1,7 @@
 .ipynb_checkpoints/Data-checkpoint.ipynb
 .DS_Store
 data/WRDS/crsp_m.parquet
+*.parquet
+*.dta
+*.csv
+*.xlsx
