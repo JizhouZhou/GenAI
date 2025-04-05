@@ -1,5 +1,9 @@
 # Financial Data Preprocessing from WRDS
 
+_Last updated: April 5, 2025_
+
+> 🚧 This is a work in progress. The current version includes initial data extraction and preprocessing but does not represent the final version of the project.
+
 This repository contains two Jupyter Notebooks that extract, clean, and preprocess financial datasets from WRDS (Wharton Research Data Services), focusing primarily on CRSP and Compustat data. The ultimate goal is to prepare datasets for empirical asset pricing or corporate finance research.
 
 ---
@@ -48,3 +52,9 @@ Make sure you have access to WRDS with valid credentials to run the data extract
 ## Output
 
 Processed datasets are saved in `.parquet` format under the `./data/WRDS/` directory.
+
+---
+
+## Notes
+
+This project is under active development and more modules will be added in future versions (e.g., IBES data processing, fundamental signals, portfolio construction, etc.).
