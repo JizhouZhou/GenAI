@@ -5,3 +5,4 @@ data/WRDS/crsp_m.parquet
 *.dta
 *.csv
 *.xlsx
+*.doc
